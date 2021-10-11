@@ -63,6 +63,8 @@ extra modules.
 Usage
 =====
 
+
+
 If you modify the `Details` tab, automatically the `Summary` tab is updated.
 But if you modify the `Summary` tab, you need to save in order to have the `Details` tab updated.
 
